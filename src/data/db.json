@@ -1,0 +1,19 @@
+{
+  "trips": [
+    {
+      "id": "3",
+      "title": "Patched title",
+      "price": "£345"
+    },
+    {
+      "id": "4",
+      "title": "4 Night Stay in New York",
+      "price": "£325"
+    },
+    {
+      "title": "Make some post title ccc",
+      "body": "Sample text",
+      "id": "S6pLAAC"
+    }
+  ]
+}
