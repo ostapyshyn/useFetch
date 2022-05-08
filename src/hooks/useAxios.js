@@ -10,6 +10,8 @@ const useFetch = (url) => {
   const doFetch = useCallback((options = {}) => {
     setOptions(options);
     setIsLoading(true);
+    setResponse(null);
+    setError(null);
   }, []);
 
   useEffect(() => {
