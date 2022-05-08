@@ -34,7 +34,7 @@ function App() {
                 </div>
               )}
               <div>
-                <ul>{response && response && response.map((user) => <li key={user.id}>{user.name}</li>)}</ul>
+                <ul>{response && response.map((user) => <li key={user.id}>{user.name}</li>)}</ul>
               </div>
             </div>
           )}
